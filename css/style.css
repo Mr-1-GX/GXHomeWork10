@@ -41,6 +41,11 @@
 	color: #D9F0FF;
 	font-family: 'Poppins-M';
 }
+.burger-icon {
+	color: #D9F0FF;
+	font-size: 30px;
+	display: none;
+}
 .h1-box {
 	text-align: center;
 }
